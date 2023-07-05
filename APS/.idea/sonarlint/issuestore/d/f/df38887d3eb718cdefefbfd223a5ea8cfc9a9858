@@ -1,0 +1,23 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¶²ıúÿÿÿÿ8â“İ€’1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…êÍÍùÿÿÿÿ8ã“İ€’1
+v
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(‰å¡â8ã“İ€’1
+v
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÌÑ»8ã“İ€’1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ç”„ûÿÿÿÿ8ã“İ€’1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıá®‚úÿÿÿÿ8ä“İ€’1
+h
+java:S3008	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ß‹|8Á•İ€’1
+h
+java:S3008	"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ß‹|8Á•İ€’1
+h
+java:S3008	"LRename this field "W" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ß‹|8Á•İ€’1
+Z
+java:S1659	">Declare "K" and all following declarations on a separate line.(°ß‹|8Â•İ€’1
+c
+java:S1659
+"FDeclare "timestamp" and all following declarations on a separate line.(Îò¬8Ã•İ€’1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûÄÏ8Ê•İ€’1

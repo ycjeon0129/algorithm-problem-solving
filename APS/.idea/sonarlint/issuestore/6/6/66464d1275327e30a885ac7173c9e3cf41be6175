@@ -1,0 +1,26 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÖÑüÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ëËïÿÿÿÿÿ
+t
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏââÜşÿÿÿÿ
+C
+java:S1604)"(Make this anonymous inner class a lambda(ÏââÜşÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•çåÛ
+g
+java:S3008	"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éıé³ÿÿÿÿÿ
+g
+java:S3008	"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éıé³ÿÿÿÿÿ
+Y
+java:S1659	">Declare "E" and all following declarations on a separate line.(éıé³ÿÿÿÿÿ
+U
+java:S1659"?Declare "to" and all following declarations on a separate line.(‘ğöû
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Åã„±
+P	java:S125+"<This block of commented-out lines of code should be removed.(¸¯‰p
+5
+java:S16597"Declare "w" on a separate line.(’Åñ•
+E
+java:S11975"*Move the array designators [] to the type.(â§Àúÿÿÿÿ
+>
+java:S1659="#Declare "nextW" on a separate line.(Âó„›ùÿÿÿÿ

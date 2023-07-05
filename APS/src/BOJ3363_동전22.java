@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class BOJ3363_동전 {
+public class BOJ3363_동전22 {
 
     static Set<Integer> light, heavy;
     static int[] left, right;

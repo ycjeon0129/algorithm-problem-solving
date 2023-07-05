@@ -1,5 +1,4 @@
 package boj.gold._4_;
-
 // 이분 그래프, BFS
 
 import java.io.BufferedReader;
