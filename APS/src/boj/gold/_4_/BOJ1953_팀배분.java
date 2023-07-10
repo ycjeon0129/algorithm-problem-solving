@@ -1,4 +1,4 @@
-package boj;
+package boj.gold._4_;
 // 이분 그래프, DFS
 
 import java.io.BufferedReader;

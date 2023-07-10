@@ -1,12 +1,0 @@
-
-u
-java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸×í<8»Æ…‹’1
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¸ˆ´øÿÿÿÿ8»Æ…‹’1
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËïÄÑ8»Æ…‹’1
-i
-java:S3008"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú’¨˜8ÛÆ…‹’1
-i
-java:S3008"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú’¨˜8ÛÆ…‹’1
-<
-java:S1659"Declare "E" on a separate line.(ú’¨˜8ÛÆ…‹’1
-Z	java:S1061"9Replace this use of System.out or System.err by a logger.(­ËÖþÿÿÿÿ8ÛÆ…‹’1
